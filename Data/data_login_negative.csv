@@ -1,0 +1,4 @@
+email,password,expected result
+testanitalisgmail.com,XKomincorrect,Niepoprawny adres e-mail
+testanitalis@gmail.com,incorrect,"Sprawdź, czy adres e-mail i hasło są poprawne."
+,,Podaj adres e-mail
