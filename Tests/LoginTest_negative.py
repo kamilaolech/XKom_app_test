@@ -1,5 +1,4 @@
 import unittest
-import os
 from ddt import ddt, data, unpack
 
 from Pages.ProfilePage import ProfilePage
